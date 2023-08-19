@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659593446855",
+    "project_id": "whalestestproject",
+    "storage_bucket": "whalestestproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659593446855:android:b0926761fc2c8ea0aa85e2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659593446855-iovikih71pm2u608c0gpqidsphgse0l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQzTTrEGHHbIOPXOkRnWsQ47bt4q4Zb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659593446855-iovikih71pm2u608c0gpqidsphgse0l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
